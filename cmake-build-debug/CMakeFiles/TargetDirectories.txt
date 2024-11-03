@@ -1,0 +1,3 @@
+/Users/alexandernesterov/CLionProjects/Squaring/cmake-build-debug/CMakeFiles/Squaring.dir
+/Users/alexandernesterov/CLionProjects/Squaring/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexandernesterov/CLionProjects/Squaring/cmake-build-debug/CMakeFiles/rebuild_cache.dir
